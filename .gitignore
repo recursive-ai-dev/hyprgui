@@ -1,0 +1,15 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+
+# Runtime state (machine-specific, backup separately if needed)
+# state lives in ~/.config/hypr/hyprgui/state.json, not here
+
+# Editors
+.vscode/
+.idea/
+*~
